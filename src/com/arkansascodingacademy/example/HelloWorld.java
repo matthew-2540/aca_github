@@ -1,6 +1,7 @@
 package com.arkansascodingacademy.example;
 
 
+@SuppressWarnings("InitializerMayBeStatic")
 public class HelloWorld {
     
     public static void main(String[] args) {
@@ -11,4 +12,8 @@ public class HelloWorld {
         System.out.println("Musa says it's the decoy effect");
     }
     
+
+private static void Belew(String[] args) {
+        System.out.println("Goodbye World!");
+    }
 }
