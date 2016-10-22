@@ -11,4 +11,7 @@ public class HelloWorld {
         System.out.println("Musa says it's the decoy effect");
     }
     
+    private void avoidWalters(){
+        System.out.println("avoid Jacob");
+    }
 }
