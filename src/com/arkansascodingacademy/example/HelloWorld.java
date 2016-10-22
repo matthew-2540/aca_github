@@ -7,4 +7,7 @@ public class HelloWorld {
         System.out.println("Hello World!");
     }
     
+    private void Guthie(String[] args){
+        System.out.println("Hello from Mitch");
+    }
 }
