@@ -7,11 +7,11 @@ public class HelloWorld {
         System.out.println("Hello World!");
     }
    
-}
-        {
-        private void dianne (); 
+
+
+        private void dianne(){
             System.out.println("Hello Dianne");
         }
-   
+}
     
 
