@@ -7,4 +7,8 @@ public class HelloWorld {
         System.out.println("Hello World!");
     }
     
+    private void little(){
+        System.out.println("Hello, this is Zach");
+    }
+    
 }
