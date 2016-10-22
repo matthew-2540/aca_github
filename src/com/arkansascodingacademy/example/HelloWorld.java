@@ -7,4 +7,6 @@ public class HelloWorld {
         System.out.println("Hello World!");
     }
     
-}
+    private void Ott() {
+        System.out.println("YEEEEEE YEEEEEEE YEEEEEEEE YEEEEEEEEEEEE");
+    }
