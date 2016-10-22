@@ -7,4 +7,7 @@ public class HelloWorld {
         System.out.println("Hello World!");
     }
     
+    private void avoidWalters(){
+        System.out.println("avoid Jacob");
+    }
 }
