@@ -12,5 +12,7 @@ public class HelloWorld {
 
     private void Ott() {
         System.out.println("lol");
+        
+        
     }}
 
